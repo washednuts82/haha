@@ -1,0 +1,22 @@
+ENV: production
+Exodus (production): DATA DIR: /home/anonymous/.config/Exodus
+main: 99.867ms
+did-finish-load at [11283795813]
+uiview: 1.101s
+
+SET WALLET LOADED action: undefined
+true
+
+received window:fetchIsFocused request
+wallet-controller initialized, process.type = browser, timestamp: 1723841055723
+(electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[25059:0627/194656.340652:ERROR:CONSOLE(1)] "Request Autofill.enable failed. {"code":-32601,"message":"'Autofill.enable' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194656.340721:ERROR:CONSOLE(1)] "Request Autofill.setAddresses failed. {"code":-32601,"message":"'Autofill.setAddresses' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194656.359890:ERROR:CONSOLE(1)] "Request Autofill.enable failed. {"code":-32601,"message":"'Autofill.enable' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194656.359957:ERROR:CONSOLE(1)] "Request Autofill.setAddresses failed. {"code":-32601,"message":"'Autofill.setAddresses' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194656.954401:ERROR:atom_cache.cc(230)] Add _NET_WM_STATE_MODAL to kAtomsToCache
+[25059:0627/194657.393565:ERROR:CONSOLE(1)] "Request Autofill.enable failed. {"code":-32601,"message":"'Autofill.enable' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194657.393609:ERROR:CONSOLE(1)] "Request Autofill.setAddresses failed. {"code":-32601,"message":"'Autofill.setAddresses' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194701.157362:ERROR:CONSOLE(1)] "Request Autofill.enable failed. {"code":-32601,"message":"'Autofill.enable' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194701.157446:ERROR:CONSOLE(1)] "Request Autofill.setAddresses failed. {"code":-32601,"message":"'Autofill.setAddresses' wasn't found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+[25059:0627/194701.157345:ERROR:CONSOLE(1)] "Segfault (core dumped). {"code":-14508,"message":"'EXECUTION FAILURE' function"}"
